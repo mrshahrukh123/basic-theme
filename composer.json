@@ -1,0 +1,12 @@
+{
+    "name": "shahrukh/basic-theme",
+    "description": "This is basic wp theme started using composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Shah Rukh",
+            "email": "mrshahrukh123@gmail.com"
+        }
+    ],
+    "require": {}
+}
